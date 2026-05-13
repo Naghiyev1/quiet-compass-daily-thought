@@ -1,18 +1,18 @@
-# Quiet Compass v1.0 — Daily Thought Wallpaper App
+# Quiet Compass v2.0 — 365 Thoughts + Wallpaper Styles
 
-A daily meaningful thought app with pastel wallpaper export.
+## What changed
 
-## Features
-
-- One thoughtful reflection per day
-- 29 curated thoughts
-- Serious reading-inspired themes
-- No Instagram-influencer quote soup
-- Pastel wallpaper card
-- Download phone wallpaper as PNG
-- Save favourite thoughts
+- 365 daily thoughts, enough for a full year
+- Better wallpaper typography spacing
+- Four visual styles:
+  - Calm
+  - Dark
+  - Paper
+  - Sunrise
+- No weekly theme layer
+- Favourite thoughts
 - Archive
-- Mobile-first PWA-style static app
+- 1080×1920 PNG wallpaper export
 
 ## Copyright approach
 
@@ -23,8 +23,8 @@ The app uses original reflections inspired by serious books and traditions. It a
 Upload these files to your repo root:
 
 - index.html
-- app-v1-0.js
-- style-v1-0.css
+- app-v2-0.js
+- style-v2-0.css
 - app.js
 - style.css
 - icon.svg
