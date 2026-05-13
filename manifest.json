@@ -1,7 +1,7 @@
 {
   "name": "Quiet Compass \u2014 Daily Thought",
   "short_name": "Quiet Compass",
-  "description": "A daily meaningful thought with pastel phone wallpaper export.",
+  "description": "365 meaningful daily thoughts with pastel wallpaper export.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#EAF4F4",
