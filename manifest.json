@@ -1,0 +1,16 @@
+{
+  "name": "Quiet Compass \u2014 Daily Thought",
+  "short_name": "Quiet Compass",
+  "description": "A daily meaningful thought with pastel phone wallpaper export.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#EAF4F4",
+  "theme_color": "#EAF4F4",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
